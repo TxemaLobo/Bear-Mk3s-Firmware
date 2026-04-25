@@ -1,5 +1,25 @@
 # Prusa Firmware MK3
 
+## Presentación
+
+Esta es mi primera contribución a la comunidad.
+
+He modificado el código para que sea compatible con Bear, que lo he probado con la modificación de hotend Revo y ha pasado todas las calibraciones. También he arreglado la utilidad build que daba errores. Si esto va bien, iré actualizando el código según salga.
+
+## Presentation
+
+This is my first contribution to the community.
+
+I have modified the code to make it compatible with Bear, I have tested it with the Revo hotend modification and it has passed all calibrations. I have also fixed the build utility that was giving errors. If this goes well, I will keep updating the code as new versions come out.
+---
+
+ 🚀 FIRMWARE VERSION 3.14.1 🚀
+
+ ¡Buena suerte! / Good luck!
+
+--- 
+
+
 This repository contains the source code and the development versions of the firmware running on the [Original Prusa i3](https://prusa3d.com/) MK3S/MK3/MK2.5S/MK2.5 line of printers.
 
 The latest official builds can be downloaded from [Prusa Drivers](https://www.prusa3d.com/drivers/). Pre-built development releases are also [available here](https://github.com/prusa3d/Prusa-Firmware/releases).
@@ -7,7 +27,6 @@ The latest official builds can be downloaded from [Prusa Drivers](https://www.pr
 The firmware for the Original Prusa i3 printers is proudly based on [Marlin 1.0.x](https://github.com/MarlinFirmware/Marlin/) by Scott Lahteine (@thinkyhead) et al. and is distributed under the terms of the [GNU GPL 3 license](LICENSE).
 
 This repository contains _development material only!_
-
 
 # Build
 ## Linux
